@@ -1,0 +1,44 @@
+
+organization_endings:
+  [
+    "AG",
+    "GmbH",
+    "KG",
+    "OHG",
+    "e.K.",
+    "eK",
+    "UG",
+    "Inc.",
+    "Ltd.",
+    "Ltd",
+    "LLC",
+    "PLC",
+    "LP",
+    "LLP",
+    "SA",
+    "SARL",
+    "Sàrl",
+    "SAS",
+    "SNC",
+    "EURL",
+    "S.p.A.",
+    "S.r.l.",
+    "S.a.p.a.",
+    "S.n.c.",
+    "S.a.s.",
+    "SpA",
+    "Srl",
+    "Sapa",
+    "Sas",
+  ]
+cutoff:
+  start_keywords:
+    [
+      "Participants à la procédure",
+      "Parteien",
+      "Verfahrensbeteiligte",
+      "Partecipanti al procedimento",
+      "Parties"
+    ]
+  end_keywords: ["Lausanne", "Losanna"]
+
